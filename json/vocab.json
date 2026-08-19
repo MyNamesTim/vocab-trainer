@@ -1,252 +1,2117 @@
 [
   {
-    "word": "happy",
-    "meaning": "feeling or showing pleasure or contentment",
-    "synonyms": ["joyful", "cheerful", "delighted"]
+    "word": "big",
+    "meaning": "of considerable size, extent, or intensity",
+    "synonyms": [
+      "large",
+      "huge",
+      "giant"
+    ]
   },
   {
-    "word": "fast",
-    "meaning": "moving or capable of moving at high speed",
-    "synonyms": ["quick", "rapid", "swift"]
+    "word": "sad",
+    "meaning": "feeling or showing sorrow; unhappy",
+    "synonyms": [
+      "unhappy",
+      "sorrowful",
+      "gloomy"
+    ]
   },
   {
-    "word": "small",
-    "meaning": "of a size that is less than normal or average",
-    "synonyms": ["tiny", "little", "compact"]
+    "word": "run",
+    "meaning": "move at a speed faster than a walk",
+    "synonyms": [
+      "sprint",
+      "dash",
+      "jog"
+    ]
+  },
+  {
+    "word": "quiet",
+    "meaning": "making little or no noise",
+    "synonyms": [
+      "silent",
+      "hushed",
+      "peaceful"
+    ]
+  },
+  {
+    "word": "soft",
+    "meaning": "easy to mould, cut, compress, or fold; not hard",
+    "synonyms": [
+      "tender",
+      "pliable",
+      "cushiony"
+    ]
+  },
+  {
+    "word": "hard",
+    "meaning": "solid, firm, and rigid; not easily broken or bent",
+    "synonyms": [
+      "solid",
+      "firm",
+      "tough"
+    ]
+  },
+  {
+    "word": "sweet",
+    "meaning": "having the pleasant taste characteristic of sugar",
+    "synonyms": [
+      "sugary",
+      "honeyed",
+      "luscious"
+    ]
+  },
+  {
+    "word": "sour",
+    "meaning": "having an acid taste like lemon or vinegar",
+    "synonyms": [
+      "tart",
+      "acidic",
+      "bitter"
+    ]
+  },
+  {
+    "word": "tall",
+    "meaning": "of great or more than average height",
+    "synonyms": [
+      "lofty",
+      "towering",
+      "high"
+    ]
+  },
+  {
+    "word": "short",
+    "meaning": "measuring a small distance from end to end",
+    "synonyms": [
+      "brief",
+      "petite",
+      "compact"
+    ]
+  },
+  {
+    "word": "kind",
+    "meaning": "having or showing a friendly, generous, and considerate nature",
+    "synonyms": [
+      "caring",
+      "thoughtful",
+      "gentle"
+    ]
+  },
+  {
+    "word": "clean",
+    "meaning": "free from dirt, marks, or stains",
+    "synonyms": [
+      "spotless",
+      "tidy",
+      "pure"
+    ]
+  },
+  {
+    "word": "dirty",
+    "meaning": "covered or marked with an unclean substance",
+    "synonyms": [
+      "soiled",
+      "grimy",
+      "filthy"
+    ]
+  },
+  {
+    "word": "loud",
+    "meaning": "producing or capable of producing much noise",
+    "synonyms": [
+      "noisy",
+      "boisterous",
+      "deafening"
+    ]
+  },
+  {
+    "word": "quick",
+    "meaning": "moving fast or doing something in a short time",
+    "synonyms": [
+      "swift",
+      "rapid",
+      "fast"
+    ]
+  },
+  {
+    "word": "slow",
+    "meaning": "moving or operating at a low speed",
+    "synonyms": [
+      "sluggish",
+      "leisurely",
+      "unhurried"
+    ]
+  },
+  {
+    "word": "heavy",
+    "meaning": "of great weight; difficult to lift or move",
+    "synonyms": [
+      "weighty",
+      "hefty",
+      "solid"
+    ]
+  },
+  {
+    "word": "light",
+    "meaning": "having little weight; not heavy",
+    "synonyms": [
+      "featherweight",
+      "flimpsy",
+      "slight"
+    ]
+  },
+  {
+    "word": "cheap",
+    "meaning": "low in price, especially in relation to similar items or market value",
+    "synonyms": [
+      "inexpensive",
+      "affordable",
+      "low-cost"
+    ]
+  },
+  {
+    "word": "rich",
+    "meaning": "having a great deal of money or assets",
+    "synonyms": [
+      "wealthy",
+      "affluent",
+      "prosperous"
+    ]
+  },
+  {
+    "word": "poor",
+    "meaning": "lacking sufficient money to live at a standard considered comfortable",
+    "synonyms": [
+      "impoverished",
+      "needy",
+      "destitute"
+    ]
+  },
+  {
+    "word": "safe",
+    "meaning": "protected from or not exposed to danger or risk",
+    "synonyms": [
+      "secure",
+      "protected",
+      "guarded"
+    ]
+  },
+  {
+    "word": "wild",
+    "meaning": "living or growing in the natural environment; not domesticated",
+    "synonyms": [
+      "untamed",
+      "feral",
+      "savage"
+    ]
+  },
+  {
+    "word": "fresh",
+    "meaning": "recently made or obtained; not stale or spoiled",
+    "synonyms": [
+      "crisp",
+      "new",
+      "unspoiled"
+    ]
+  },
+  {
+    "word": "easy",
+    "meaning": "achieved without great effort; presenting few difficulties",
+    "synonyms": [
+      "simple",
+      "effortless",
+      "uncomplicated"
+    ]
+  },
+  {
+    "word": "deep",
+    "meaning": "extending far down from the top or surface",
+    "synonyms": [
+      "profound",
+      "bottomless",
+      "fathomless"
+    ]
+  },
+  {
+    "word": "shallow",
+    "meaning": "of little depth",
+    "synonyms": [
+      "shoal",
+      "superficial",
+      "flat"
+    ]
+  },
+  {
+    "word": "full",
+    "meaning": "containing or holding as much or as many as possible",
+    "synonyms": [
+      "packed",
+      "brimming",
+      "crammed"
+    ]
+  },
+  {
+    "word": "empty",
+    "meaning": "containing nothing; not filled or occupied",
+    "synonyms": [
+      "vacant",
+      "void",
+      "hollow"
+    ]
+  },
+  {
+    "word": "early",
+    "meaning": "happening or done before the usual or expected time",
+    "synonyms": [
+      "premature",
+      "ahead of time",
+      "prompt"
+    ]
+  },
+  {
+    "word": "late",
+    "meaning": "doing something or happening after the expected or usual time",
+    "synonyms": [
+      "tardy",
+      "delayed",
+      "overdue"
+    ]
+  },
+  {
+    "word": "smooth",
+    "meaning": "having an even and regular surface; free from perceptible projections",
+    "synonyms": [
+      "slick",
+      "sleek",
+      "polished"
+    ]
+  },
+  {
+    "word": "rough",
+    "meaning": "having an uneven or irregular surface; not smooth",
+    "synonyms": [
+      "coarse",
+      "rugged",
+      "uneven"
+    ]
+  },
+  {
+    "word": "sharp",
+    "meaning": "having an edge or point that is able to cut or pierce something",
+    "synonyms": [
+      "keen",
+      "pointed",
+      "razor-sharp"
+    ]
+  },
+  {
+    "word": "blunt",
+    "meaning": "having a flat or rounded end; not sharp",
+    "synonyms": [
+      "dull",
+      "unsharpened",
+      "rounded"
+    ]
+  },
+  {
+    "word": "warm",
+    "meaning": "of or at a fairly or comfortably high temperature",
+    "synonyms": [
+      "balmy",
+      "tepid",
+      "cozy"
+    ]
+  },
+  {
+    "word": "cool",
+    "meaning": "of or at a fairly low temperature",
+    "synonyms": [
+      "chilly",
+      "brisk",
+      "refreshed"
+    ]
+  },
+  {
+    "word": "dry",
+    "meaning": "free from moisture or liquid; not wet or moist",
+    "synonyms": [
+      "arid",
+      "parched",
+      "dehydrated"
+    ]
+  },
+  {
+    "word": "wet",
+    "meaning": "covered or saturated with water or another liquid",
+    "synonyms": [
+      "damp",
+      "moist",
+      "soaked"
+    ]
+  },
+  {
+    "word": "strong",
+    "meaning": "having power, influence, or physical force",
+    "synonyms": [
+      "sturdy",
+      "robust",
+      "powerful"
+    ]
+  },
+  {
+    "word": "weak",
+    "meaning": "lacking physical strength and energy",
+    "synonyms": [
+      "feeble",
+      "frail",
+      "delicate"
+    ]
+  },
+  {
+    "word": "young",
+    "meaning": "having lived or existed for only a short time",
+    "synonyms": [
+      "youthful",
+      "juvenile",
+      "fledgling"
+    ]
+  },
+  {
+    "word": "old",
+    "meaning": "having lived for a long time; no longer young",
+    "synonyms": [
+      "aged",
+      "elderly",
+      "ancient"
+    ]
+  },
+  {
+    "word": "good",
+    "meaning": "to be desired or approved of; high quality",
+    "synonyms": [
+      "excellent",
+      "fine",
+      "superior"
+    ]
+  },
+  {
+    "word": "bad",
+    "meaning": "of poor quality or a low standard",
+    "synonyms": [
+      "dreadful",
+      "awful",
+      "terrible"
+    ]
+  },
+  {
+    "word": "right",
+    "meaning": "morally good, justified, or acceptable",
+    "synonyms": [
+      "correct",
+      "proper",
+      "just"
+    ]
+  },
+  {
+    "word": "wrong",
+    "meaning": "not correct or true; incorrect",
+    "synonyms": [
+      "mistaken",
+      "erroneous",
+      "faulty"
+    ]
+  },
+  {
+    "word": "narrow",
+    "meaning": "of small width in relation to length",
+    "synonyms": [
+      "slender",
+      "slim",
+      "tight"
+    ]
+  },
+  {
+    "word": "wide",
+    "meaning": "measuring a given distance from side to side",
+    "synonyms": [
+      "broad",
+      "spacious",
+      "extensive"
+    ]
   },
   {
     "word": "brave",
     "meaning": "ready to face and endure danger or pain",
-    "synonyms": ["courageous", "fearless", "valiant"]
+    "synonyms": [
+      "courageous",
+      "valiant",
+      "bold"
+    ]
   },
   {
-    "word": "bright",
-    "meaning": "giving out or reflecting much light",
-    "synonyms": ["radiant", "luminous", "brilliant"]
+    "word": "absorb",
+    "meaning": "take in or soak up energy, liquid, or other substances",
+    "synonyms": [
+      "soak up",
+      "assimilate",
+      "engulf"
+    ]
   },
   {
-    "word": "calm",
-    "meaning": "not showing or feeling nervousness, anger, or other strong emotions",
-    "synonyms": ["peaceful", "tranquil", "serene"]
+    "word": "adapt",
+    "meaning": "make suitable to a new use or purpose; modify",
+    "synonyms": [
+      "adjust",
+      "acclimate",
+      "modify"
+    ]
   },
   {
-    "word": "dark",
-    "meaning": "with little or no light",
-    "synonyms": ["gloomy", "dim", "shadowy"]
-  },
-  {
-    "word": "strong",
-    "meaning": "having the power to move heavy weights or perform other physically demanding tasks",
-    "synonyms": ["powerful", "mighty", "robust"]
-  },
-  {
-    "word": "wise",
-    "meaning": "having or showing experience, knowledge, and good judgment",
-    "synonyms": ["sagacious", "insightful", "shrewd"]
-  },
-  {
-    "word": "cold",
-    "meaning": "at or having a relatively low temperature",
-    "synonyms": ["chilly", "frigid", "icy"]
+    "word": "alter",
+    "meaning": "change or cause to change in character or composition",
+    "synonyms": [
+      "modify",
+      "adjust",
+      "reshape"
+    ]
   },
   {
     "word": "ancient",
-    "meaning": "belonging to the very distant past and no longer in existence",
-    "synonyms": ["archaic", "primeval", "antique"]
+    "meaning": "belonging to the very distant past",
+    "synonyms": [
+      "archaic",
+      "primeval",
+      "antique"
+    ]
+  },
+  {
+    "word": "barrier",
+    "meaning": "an obstacle that prevents movement or access",
+    "synonyms": [
+      "obstacle",
+      "barricade",
+      "impediment"
+    ]
+  },
+  {
+    "word": "brief",
+    "meaning": "lasting an integral short duration of time",
+    "synonyms": [
+      "concise",
+      "fleeting",
+      "short"
+    ]
+  },
+  {
+    "word": "cautious",
+    "meaning": "careful to avoid potential problems or dangers",
+    "synonyms": [
+      "wary",
+      "prudent",
+      "circumspect"
+    ]
+  },
+  {
+    "word": "debate",
+    "meaning": "a formal discussion on a particular topic",
+    "synonyms": [
+      "argument",
+      "discussion",
+      "dispute"
+    ]
+  },
+  {
+    "word": "decline",
+    "meaning": "become smaller, fewer, or less; decrease",
+    "synonyms": [
+      "decrease",
+      "dwindle",
+      "diminish"
+    ]
+  },
+  {
+    "word": "defend",
+    "meaning": "protect from harm or danger",
+    "synonyms": [
+      "guard",
+      "shield",
+      "protect"
+    ]
+  },
+  {
+    "word": "distant",
+    "meaning": "far away in space or time",
+    "synonyms": [
+      "remote",
+      "faroff",
+      "isolated"
+    ]
+  },
+  {
+    "word": "eager",
+    "meaning": "strongly wanting to do or have something",
+    "synonyms": [
+      "keen",
+      "enthusiastic",
+      "anxious"
+    ]
+  },
+  {
+    "word": "emerge",
+    "meaning": "move out of or away from something and come into view",
+    "synonyms": [
+      "appear",
+      "materialize",
+      "surface"
+    ]
+  },
+  {
+    "word": "entire",
+    "meaning": "with no part left out; whole",
+    "synonyms": [
+      "whole",
+      "complete",
+      "total"
+    ]
+  },
+  {
+    "word": "feature",
+    "meaning": "a distinctive attribute or aspect of something",
+    "synonyms": [
+      "characteristic",
+      "attribute",
+      "trait"
+    ]
   },
   {
     "word": "fragile",
     "meaning": "easily broken or damaged",
-    "synonyms": ["delicate", "brittle", "vulnerable"]
+    "synonyms": [
+      "delicate",
+      "brittle",
+      "vulnerable"
+    ]
   },
   {
     "word": "frequent",
-    "meaning": "occurring or done on many occasions with short intervals in between",
-    "synonyms": ["recurrent", "repeated", "habitual"]
+    "meaning": "occurring at short intervals",
+    "synonyms": [
+      "recurrent",
+      "repeated",
+      "regular"
+    ]
   },
   {
-    "word": "honest",
-    "meaning": "free of deceit and untruthfulness; sincere",
-    "synonyms": ["candid", "truthful", "forthright"]
+    "word": "gentle",
+    "meaning": "having or showing a mild, kind, or tender temperament",
+    "synonyms": [
+      "mild",
+      "tender",
+      "soft"
+    ]
   },
   {
-    "word": "patience",
-    "meaning": "the capacity to accept or tolerate delay, trouble, or suffering without getting angry",
-    "synonyms": ["forbearance", "endurance", "tolerance"]
+    "word": "glance",
+    "meaning": "take a brief or hurried look",
+    "synonyms": [
+      "peek",
+      "glimpse",
+      "scan"
+    ]
   },
   {
-    "word": "spacious",
-    "meaning": "having ample space",
-    "synonyms": ["roomy", "capacious", "commodious"]
+    "word": "halt",
+    "meaning": "bring or come to an abrupt stop",
+    "synonyms": [
+      "stop",
+      "cease",
+      "pause"
+    ]
+  },
+  {
+    "word": "ignore",
+    "meaning": "refuse to take notice of or acknowledge",
+    "synonyms": [
+      "disregard",
+      "overlook",
+      "neglect"
+    ]
+  },
+  {
+    "word": "impact",
+    "meaning": "the action of one object coming forcibly into contact with another",
+    "synonyms": [
+      "collision",
+      "effect",
+      "influence"
+    ]
+  },
+  {
+    "word": "journey",
+    "meaning": "an act of traveling from one place to another",
+    "synonyms": [
+      "trip",
+      "expedition",
+      "voyage"
+    ]
+  },
+  {
+    "word": "keen",
+    "meaning": "having or showing eagerness or enthusiasm",
+    "synonyms": [
+      "eager",
+      "sharp",
+      "astute"
+    ]
+  },
+  {
+    "word": "neglect",
+    "meaning": "fail to care for properly",
+    "synonyms": [
+      "ignore",
+      "disregard",
+      "overlook"
+    ]
+  },
+  {
+    "word": "obtain",
+    "meaning": "get, acquire, or secure something",
+    "synonyms": [
+      "acquire",
+      "procure",
+      "gain"
+    ]
+  },
+  {
+    "word": "pursue",
+    "meaning": "follow or chase someone or something",
+    "synonyms": [
+      "chase",
+      "trail",
+      "seek"
+    ]
+  },
+  {
+    "word": "reject",
+    "meaning": "dismiss as inadequate, unacceptable, or faulty",
+    "synonyms": [
+      "refuse",
+      "decline",
+      "spurn"
+    ]
+  },
+  {
+    "word": "reveal",
+    "meaning": "make previously unknown or secret information known to others",
+    "synonyms": [
+      "disclose",
+      "unveil",
+      "expose"
+    ]
+  },
+  {
+    "word": "severe",
+    "meaning": "very great, intense, or harsh",
+    "synonyms": [
+      "harsh",
+      "stern",
+      "intense"
+    ]
+  },
+  {
+    "word": "submit",
+    "meaning": "accept or yield to a superior force or authority",
+    "synonyms": [
+      "yield",
+      "surrender",
+      "acquiesce"
+    ]
+  },
+  {
+    "word": "sudden",
+    "meaning": "occurring or done quickly and unexpectedly",
+    "synonyms": [
+      "abrupt",
+      "unexpected",
+      "swift"
+    ]
+  },
+  {
+    "word": "thrive",
+    "meaning": "grow or develop well or vigorously",
+    "synonyms": [
+      "flourish",
+      "prosper",
+      "bloom"
+    ]
+  },
+  {
+    "word": "unique",
+    "meaning": "being the only one of its kind; unlike anything else",
+    "synonyms": [
+      "singular",
+      "unrivaled",
+      "distinctive"
+    ]
+  },
+  {
+    "word": "urgent",
+    "meaning": "requiring immediate action or attention",
+    "synonyms": [
+      "critical",
+      "pressing",
+      "imperative"
+    ]
+  },
+  {
+    "word": "vast",
+    "meaning": "of very great extent or quantity; immense",
+    "synonyms": [
+      "immense",
+      "huge",
+      "expansive"
+    ]
+  },
+  {
+    "word": "verify",
+    "meaning": "make sure or demonstrate that something is true or accurate",
+    "synonyms": [
+      "confirm",
+      "substantiate",
+      "corroborate"
+    ]
+  },
+  {
+    "word": "vital",
+    "meaning": "absolutely necessary or important; essential",
+    "synonyms": [
+      "essential",
+      "crucial",
+      "critical"
+    ]
+  },
+  {
+    "word": "vivid",
+    "meaning": "producing powerful feelings or strong, clear images in the mind",
+    "synonyms": [
+      "graphic",
+      "vibrant",
+      "striking"
+    ]
+  },
+  {
+    "word": "wander",
+    "meaning": "walk or move in a leisurely, aimless, or winding way",
+    "synonyms": [
+      "roam",
+      "ramble",
+      "stroll"
+    ]
+  },
+  {
+    "word": "wealth",
+    "meaning": "an abundance of valuable possessions or money",
+    "synonyms": [
+      "riches",
+      "affluence",
+      "fortune"
+    ]
+  },
+  {
+    "word": "wisdom",
+    "meaning": "the quality of having experience, knowledge, and good judgment",
+    "synonyms": [
+      "sagacity",
+      "insight",
+      "discernment"
+    ]
+  },
+  {
+    "word": "yield",
+    "meaning": "produce or provide a natural, agricultural, or industrial product",
+    "synonyms": [
+      "produce",
+      "generate",
+      "surrender"
+    ]
   },
   {
     "word": "accurate",
     "meaning": "correct in all details; exact",
-    "synonyms": ["precise", "exact", "flawless"]
+    "synonyms": [
+      "precise",
+      "exact",
+      "spot-on"
+    ]
   },
   {
-    "word": "reluctant",
-    "meaning": "unwilling and hesitant to do something",
-    "synonyms": ["hesitant", "loath", "unwilling"]
+    "word": "benefit",
+    "meaning": "an advantage or profit gained from something",
+    "synonyms": [
+      "advantage",
+      "gain",
+      "profit"
+    ]
   },
   {
-    "word": "abundant",
-    "meaning": "existing or available in large quantities; plentiful",
-    "synonyms": ["plentiful", "bountiful", "copious"]
+    "word": "complex",
+    "meaning": "consisting of many different and connected parts",
+    "synonyms": [
+      "intricate",
+      "complicated",
+      "elaborate"
+    ]
   },
   {
-    "word": "obscure",
-    "meaning": "not discovered or known about; uncertain",
-    "synonyms": ["unclear", "ambiguous", "vague"]
+    "word": "crucial",
+    "meaning": "decisive or critical, especially in the success or failure of something",
+    "synonyms": [
+      "pivotal",
+      "essential",
+      "critical"
+    ]
   },
   {
-    "word": "benevolent",
-    "meaning": "well meaning and kindly",
-    "synonyms": ["charitable", "compassionate", "magnanimous"]
+    "word": "diverse",
+    "meaning": "showing a great deal of variety; very different",
+    "synonyms": [
+      "varied",
+      "assorted",
+      "heterogeneous"
+    ]
   },
   {
-    "word": "ambiguous",
-    "meaning": "open to more than one interpretation; having a double meaning",
-    "synonyms": ["equivocal", "unclear", "cryptic"]
+    "word": "evident",
+    "meaning": "plain or obvious; clearly seen or understood",
+    "synonyms": [
+      "apparent",
+      "manifest",
+      "clear"
+    ]
+  },
+  {
+    "word": "flexible",
+    "meaning": "capable of bending easily without breaking",
+    "synonyms": [
+      "pliant",
+      "adaptable",
+      "versatile"
+    ]
+  },
+  {
+    "word": "advocate",
+    "meaning": "publicly recommend or support a particular cause or policy",
+    "synonyms": [
+      "champion",
+      "support",
+      "endorse"
+    ]
+  },
+  {
+    "word": "amplify",
+    "meaning": "increase the volume, intensity, or scope of",
+    "synonyms": [
+      "magnify",
+      "boost",
+      "intensify"
+    ]
+  },
+  {
+    "word": "articulate",
+    "meaning": "having or showing the ability to speak fluently and coherently",
+    "synonyms": [
+      "eloquent",
+      "coherent",
+      "expressive"
+    ]
   },
   {
     "word": "candid",
     "meaning": "truthful and straightforward; frank",
-    "synonyms": ["frank", "direct", "forthright"]
+    "synonyms": [
+      "frank",
+      "direct",
+      "honest"
+    ]
+  },
+  {
+    "word": "clarify",
+    "meaning": "make a statement or situation less confused and more comprehensible",
+    "synonyms": [
+      "elucidate",
+      "explain",
+      "simplify"
+    ]
+  },
+  {
+    "word": "compile",
+    "meaning": "produce a list or report by assembling information from other sources",
+    "synonyms": [
+      "assemble",
+      "gather",
+      "collate"
+    ]
+  },
+  {
+    "word": "deliberate",
+    "meaning": "done consciously and intentionally",
+    "synonyms": [
+      "intentional",
+      "calculated",
+      "purposeful"
+    ]
+  },
+  {
+    "word": "depict",
+    "meaning": "represent or show by a drawing, painting, or other art form",
+    "synonyms": [
+      "portray",
+      "illustrate",
+      "render"
+    ]
   },
   {
     "word": "diligent",
-    "meaning": "having or showing care and conscientiousness in one's work or duties",
-    "synonyms": ["industrious", "assiduous", "meticulous"]
+    "meaning": "having or showing care and conscientiousness in work",
+    "synonyms": [
+      "industrious",
+      "assiduous",
+      "meticulous"
+    ]
   },
   {
-    "word": "eloquent",
-    "meaning": "fluent or persuasive in speaking or writing",
-    "synonyms": ["articulate", "expressive", "persuasive"]
+    "word": "diminish",
+    "meaning": "make or become less",
+    "synonyms": [
+      "decrease",
+      "lessen",
+      "reduce"
+    ]
   },
   {
-    "word": "resilient",
-    "meaning": "able to withstand or recover quickly from difficult conditions",
-    "synonyms": ["hardy", "tough", "adaptable"]
+    "word": "dynamic",
+    "meaning": "characterized by constant change, activity, or progress",
+    "synonyms": [
+      "energetic",
+      "vibrant",
+      "active"
+    ]
   },
   {
-    "word": "frugal",
-    "meaning": "sparing or economical with regard to money or food",
-    "synonyms": ["thrifty", "economical", "spartan"]
+    "word": "efficient",
+    "meaning": "achieving maximum productivity with minimum wasted effort",
+    "synonyms": [
+      "effective",
+      "productive",
+      "streamlined"
+    ]
   },
   {
-    "word": "innovative",
-    "meaning": "featuring new methods; advanced and original",
-    "synonyms": ["inventive", "pioneering", "novel"]
+    "word": "emphasize",
+    "meaning": "give special importance or prominence to something",
+    "synonyms": [
+      "stress",
+      "highlight",
+      "accentuate"
+    ]
   },
   {
-    "word": "pragmatic",
-    "meaning": "dealing with things sensibly and realistically in a way that is based on practical considerations",
-    "synonyms": ["practical", "sensible", "realistic"]
+    "word": "enhance",
+    "meaning": "intensify, increase, or further improve the quality or value of",
+    "synonyms": [
+      "improve",
+      "boost",
+      "elevate"
+    ]
   },
   {
-    "word": "tenacious",
-    "meaning": "tending to keep a firm hold of something; clinging or determined",
-    "synonyms": ["persistent", "determined", "resolute"]
+    "word": "facilitate",
+    "meaning": "make an action or process easy or easier",
+    "synonyms": [
+      "ease",
+      "expedite",
+      "assist"
+    ]
   },
   {
-    "word": "ephemeral",
-    "meaning": "lasting for a very short time",
-    "synonyms": ["transient", "fleeting", "short-lived"]
+    "word": "generate",
+    "meaning": "cause something to arise or come about",
+    "synonyms": [
+      "produce",
+      "create",
+      "engender"
+    ]
   },
   {
-    "word": "ubiquitous",
-    "meaning": "present, appearing, or found everywhere",
-    "synonyms": ["omnipresent", "pervasive", "universal"]
+    "word": "genuine",
+    "meaning": "truly what something is said to be; authentic",
+    "synonyms": [
+      "authentic",
+      "sincere",
+      "real"
+    ]
+  },
+  {
+    "word": "hostile",
+    "meaning": "showing or feeling opposition or dislike; unfriendly",
+    "synonyms": [
+      "antagonistic",
+      "unfriendly",
+      "inimical"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "meaning": "explain or make something clear by using examples, charts, or pictures",
+    "synonyms": [
+      "demonstrate",
+      "exemplify",
+      "depict"
+    ]
+  },
+  {
+    "word": "impartial",
+    "meaning": "treating all rivals or disputants equally; fair and unbiased",
+    "synonyms": [
+      "unbiased",
+      "neutral",
+      "objective"
+    ]
+  },
+  {
+    "word": "integrate",
+    "meaning": "combine one thing with another so that they become a whole",
+    "synonyms": [
+      "incorporate",
+      "merge",
+      "assimilate"
+    ]
+  },
+  {
+    "word": "lucrative",
+    "meaning": "producing a great deal of profit",
+    "synonyms": [
+      "profitable",
+      "remunerative",
+      "gainful"
+    ]
   },
   {
     "word": "meticulous",
     "meaning": "showing great attention to detail; very careful and precise",
-    "synonyms": ["scrupulous", "painstaking", "thorough"]
+    "synonyms": [
+      "painstaking",
+      "scrupulous",
+      "exacting"
+    ]
   },
   {
-    "word": "scrutinize",
-    "meaning": "examine or inspect closely and thoroughly",
-    "synonyms": ["inspect", "examine", "analyze"]
+    "word": "modify",
+    "meaning": "make partial or minor changes to something",
+    "synonyms": [
+      "alter",
+      "adapt",
+      "adjust"
+    ]
   },
   {
-    "word": "pristine",
-    "meaning": "in its original condition; unspoiled",
-    "synonyms": ["immaculate", "unspoiled", "spotless"]
+    "word": "negotiate",
+    "meaning": "try to reach an agreement or compromise by discussion",
+    "synonyms": [
+      "bargain",
+      "discuss",
+      "arbitrate"
+    ]
   },
   {
-    "word": "redundant",
-    "meaning": "not or no longer needed or useful; superfluous",
-    "synonyms": ["superfluous", "unnecessary", "excessive"]
+    "word": "neutral",
+    "meaning": "not supporting or helping either side in a conflict or disagreement",
+    "synonyms": [
+      "impartial",
+      "unbiased",
+      "disinterested"
+    ]
   },
   {
-    "word": "aesthetic",
-    "meaning": "concerned with beauty or the appreciation of beauty",
-    "synonyms": ["artistic", "visual", "tasteful"]
+    "word": "obscure",
+    "meaning": "not discovered or known about; uncertain",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "cryptic"
+    ]
   },
   {
-    "word": "gregarious",
-    "meaning": "fond of company; sociable",
-    "synonyms": ["sociable", "outgoing", "companionable"]
+    "word": "perceive",
+    "meaning": "become aware or conscious of something; come to realize or understand",
+    "synonyms": [
+      "discern",
+      "recognize",
+      "comprehend"
+    ]
   },
   {
-    "word": "audacious",
-    "meaning": "showing a willingness to take surprisingly bold risks",
-    "synonyms": ["bold", "daring", "fearless"]
+    "word": "plausible",
+    "meaning": "seeming reasonable or probable",
+    "synonyms": [
+      "credible",
+      "believable",
+      "feasible"
+    ]
+  },
+  {
+    "word": "profound",
+    "meaning": "very great or intense; having deep insight",
+    "synonyms": [
+      "deep",
+      "insightful",
+      "intense"
+    ]
+  },
+  {
+    "word": "rational",
+    "meaning": "based on or in accordance with reason or logic",
+    "synonyms": [
+      "logical",
+      "sensible",
+      "reasonable"
+    ]
+  },
+  {
+    "word": "reconcile",
+    "meaning": "restore friendly relations between",
+    "synonyms": [
+      "harmonize",
+      "settle",
+      "resolve"
+    ]
+  },
+  {
+    "word": "reluctant",
+    "meaning": "unwilling and hesitant to do something",
+    "synonyms": [
+      "hesitant",
+      "unwilling",
+      "loath"
+    ]
+  },
+  {
+    "word": "rigorous",
+    "meaning": "extremely thorough, exhaustive, or accurate",
+    "synonyms": [
+      "meticulous",
+      "strict",
+      "stringent"
+    ]
+  },
+  {
+    "word": "scarce",
+    "meaning": "insufficient for the demand; rare",
+    "synonyms": [
+      "sparse",
+      "insufficient",
+      "rare"
+    ]
+  },
+  {
+    "word": "substitute",
+    "meaning": "use or add in place of something else",
+    "synonyms": [
+      "replace",
+      "exchange",
+      "swap"
+    ]
   },
   {
     "word": "subtle",
     "meaning": "so delicate or precise as to be difficult to analyze or describe",
-    "synonyms": ["understated", "delicate", "nuanced"]
+    "synonyms": [
+      "understated",
+      "nuanced",
+      "delicate"
+    ]
   },
   {
-    "word": "surreptitious",
-    "meaning": "kept secret, especially because it would not be approved of",
-    "synonyms": ["clandestine", "stealthy", "covert"]
+    "word": "sustain",
+    "meaning": "strengthen or support physically or mentally",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "nourish"
+    ]
   },
   {
-    "word": "magnanimous",
-    "meaning": "generous or forgiving, especially toward a rival or less powerful person",
-    "synonyms": ["generous", "noble", "charitable"]
+    "word": "tangible",
+    "meaning": "perceptible by touch; clear and definite",
+    "synonyms": [
+      "palpable",
+      "concrete",
+      "perceptible"
+    ]
   },
   {
-    "word": "quixotic",
-    "meaning": "exceedingly idealistic; unrealistic and impractical",
-    "synonyms": ["idealistic", "unrealistic", "impractical"]
+    "word": "tentative",
+    "meaning": "not certain or fixed; provisional",
+    "synonyms": [
+      "provisional",
+      "hesitant",
+      "unconfirmed"
+    ]
   },
   {
-    "word": "obfuscate",
-    "meaning": "render obscure, unclear, or unintelligible",
-    "synonyms": ["confuse", "muddle", "bewilder"]
+    "word": "transform",
+    "meaning": "make a thorough or dramatic change in the form or appearance of",
+    "synonyms": [
+      "convert",
+      "alter",
+      "metamorphose"
+    ]
   },
   {
-    "word": "pernicious",
-    "meaning": "having a harmful effect, especially in a gradual or subtle way",
-    "synonyms": ["destructive", "harmful", "insidious"]
+    "word": "trivial",
+    "meaning": "of little value or importance",
+    "synonyms": [
+      "insignificant",
+      "minor",
+      "inconsequential"
+    ]
   },
   {
-    "word": "vicarious",
-    "meaning": "experienced in the imagination through the feelings or actions of another person",
-    "synonyms": ["indirect", "secondhand", "substitute"]
+    "word": "versatile",
+    "meaning": "able to adapt or be adapted to many different functions or activities",
+    "synonyms": [
+      "adaptable",
+      "flexible",
+      "all-around"
+    ]
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "exposed to the possibility of being attacked or harmed",
+    "synonyms": [
+      "exposed",
+      "susceptible",
+      "defenseless"
+    ]
+  },
+  {
+    "word": "withhold",
+    "meaning": "refuse to give or grant something to someone",
+    "synonyms": [
+      "suppress",
+      "reserve",
+      "retain"
+    ]
+  },
+  {
+    "word": "acquiesce",
+    "meaning": "accept something reluctantly but without protest",
+    "synonyms": [
+      "comply",
+      "concede",
+      "yield"
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "concerned with beauty or the appreciation of beauty",
+    "synonyms": [
+      "artistic",
+      "tasteful",
+      "visual"
+    ]
+  },
+  {
+    "word": "affinity",
+    "meaning": "a natural liking for or attraction to a person, thing, or idea",
+    "synonyms": [
+      "fondness",
+      "rapport",
+      "inclination"
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "open to more than one interpretation; inexact",
+    "synonyms": [
+      "equivocal",
+      "vague",
+      "cryptic"
+    ]
+  },
+  {
+    "word": "anachronism",
+    "meaning": "a thing belonging or appropriate to a period other than that in which it exists",
+    "synonyms": [
+      "misplacement",
+      "incongruity",
+      "archaism"
+    ]
+  },
+  {
+    "word": "benevolent",
+    "meaning": "well meaning and kindly",
+    "synonyms": [
+      "charitable",
+      "magnanimous",
+      "altruistic"
+    ]
+  },
+  {
+    "word": "capitulate",
+    "meaning": "cease to resist an opponent or an unwelcome demand",
+    "synonyms": [
+      "surrender",
+      "succumb",
+      "yield"
+    ]
+  },
+  {
+    "word": "cogent",
+    "meaning": "clear, logical, and convincing",
+    "synonyms": [
+      "compelling",
+      "persuasive",
+      "lucid"
+    ]
+  },
+  {
+    "word": "decorum",
+    "meaning": "behavior in keeping with good taste and propriety",
+    "synonyms": [
+      "etiquette",
+      "propriety",
+      "decency"
+    ]
+  },
+  {
+    "word": "disparage",
+    "meaning": "regard or represent as being of little worth",
+    "synonyms": [
+      "belittle",
+      "depreciate",
+      "denigrate"
+    ]
+  },
+  {
+    "word": "dogmatic",
+    "meaning": "inclined to lay down principles as incontrovertibly true",
+    "synonyms": [
+      "doctrinal",
+      "opinionated",
+      "imperious"
+    ]
+  },
+  {
+    "word": "eclectic",
+    "meaning": "deriving ideas, style, or taste from a broad and diverse range of sources",
+    "synonyms": [
+      "diverse",
+      "variegated",
+      "assorted"
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "meaning": "lasting for a very short time",
+    "synonyms": [
+      "transient",
+      "fleeting",
+      "evanescent"
+    ]
   },
   {
     "word": "fastidious",
     "meaning": "very attentive to and concerned about accuracy and detail",
-    "synonyms": ["fussy", "exacting", "particular"]
+    "synonyms": [
+      "scrupulous",
+      "punctilious",
+      "fussy"
+    ]
   },
   {
-    "word": "sycophant",
-    "meaning": "a person who acts obsequiously toward someone important in order to gain advantage",
-    "synonyms": ["flatterer", "toady", "suck-up"]
+    "word": "fortuitous",
+    "meaning": "happening by a lucky chance; fortunate",
+    "synonyms": [
+      "accidental",
+      "serendipitous",
+      "providential"
+    ]
+  },
+  {
+    "word": "gratuitous",
+    "meaning": "done without good reason; uncalled for",
+    "synonyms": [
+      "unwarranted",
+      "unnecessary",
+      "unjustified"
+    ]
+  },
+  {
+    "word": "gregarious",
+    "meaning": "fond of company; sociable",
+    "synonyms": [
+      "sociable",
+      "outgoing",
+      "convivial"
+    ]
+  },
+  {
+    "word": "impetuous",
+    "meaning": "acting or done quickly and without thought or care",
+    "synonyms": [
+      "impulsive",
+      "rash",
+      "hasty"
+    ]
+  },
+  {
+    "word": "indigent",
+    "meaning": "poor or needy",
+    "synonyms": [
+      "destitute",
+      "impoverished",
+      "penniless"
+    ]
+  },
+  {
+    "word": "insidious",
+    "meaning": "proceeding in a gradual, subtle way, but with harmful effects",
+    "synonyms": [
+      "treacherous",
+      "surreptitious",
+      "stealthy"
+    ]
+  },
+  {
+    "word": "intrepid",
+    "meaning": "fearless; adventurous",
+    "synonyms": [
+      "dauntless",
+      "valiant",
+      "audacious"
+    ]
+  },
+  {
+    "word": "laconic",
+    "meaning": "using very few words",
+    "synonyms": [
+      "terse",
+      "concise",
+      "succinct"
+    ]
+  },
+  {
+    "word": "lucid",
+    "meaning": "expressed clearly; easy to understand",
+    "synonyms": [
+      "intelligible",
+      "comprehensible",
+      "transparent"
+    ]
+  },
+  {
+    "word": "magnanimous",
+    "meaning": "generous or forgiving, especially toward a rival",
+    "synonyms": [
+      "magnanimous",
+      "noble",
+      "benevolent"
+    ]
+  },
+  {
+    "word": "ostentatious",
+    "meaning": "characterized by vulgar or pretentious display",
+    "synonyms": [
+      "flamboyant",
+      "showy",
+      "pretentious"
+    ]
+  },
+  {
+    "word": "pragmatic",
+    "meaning": "dealing with things sensibly and realistically",
+    "synonyms": [
+      "practical",
+      "expedient",
+      "down-to-earth"
+    ]
+  },
+  {
+    "word": "precarious",
+    "meaning": "not securely held or in position; dangerously likely to fall",
+    "synonyms": [
+      "perilous",
+      "risky",
+      "uncertain"
+    ]
+  },
+  {
+    "word": "quixotic",
+    "meaning": "exceedingly idealistic; unrealistic and impractical",
+    "synonyms": [
+      "idealistic",
+      "starry-eyed",
+      "impractical"
+    ]
+  },
+  {
+    "word": "recalcitrant",
+    "meaning": "having an obstinately uncooperative attitude toward authority",
+    "synonyms": [
+      "refractory",
+      "defiant",
+      "unruly"
+    ]
+  },
+  {
+    "word": "repudiate",
+    "meaning": "refuse to accept or be associated with",
+    "synonyms": [
+      "reject",
+      "renounce",
+      "disavow"
+    ]
+  },
+  {
+    "word": "resilient",
+    "meaning": "able to withstand or recover quickly from difficult conditions",
+    "synonyms": [
+      "tough",
+      "adaptable",
+      "buoyant"
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "meaning": "examine or inspect closely and thoroughly",
+    "synonyms": [
+      "inspect",
+      "analyze",
+      "audit"
+    ]
+  },
+  {
+    "word": "spurious",
+    "meaning": "not being what it purports to be; false or fake",
+    "synonyms": [
+      "bogus",
+      "specious",
+      "counterfeit"
+    ]
+  },
+  {
+    "word": "supercilious",
+    "meaning": "behaving or looking as though one thinks one is superior to others",
+    "synonyms": [
+      "haughty",
+      "arrogant",
+      "disdainful"
+    ]
+  },
+  {
+    "word": "taciturn",
+    "meaning": "reserved or uncommunicative in speech; saying little",
+    "synonyms": [
+      "reticent",
+      "silent",
+      "untalkative"
+    ]
+  },
+  {
+    "word": "transient",
+    "meaning": "lasting only for a short time; impermanent",
+    "synonyms": [
+      "ephemeral",
+      "fleeting",
+      "temporal"
+    ]
+  },
+  {
+    "word": "trepidation",
+    "meaning": "a feeling of fear or agitation about something that may happen",
+    "synonyms": [
+      "apprehension",
+      "dread",
+      "anxiety"
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "present, appearing, or found everywhere",
+    "synonyms": [
+      "omnipresent",
+      "pervasive",
+      "universal"
+    ]
+  },
+  {
+    "word": "vindicate",
+    "meaning": "clear someone of blame or suspicion",
+    "synonyms": [
+      "exonerate",
+      "absolve",
+      "acquit"
+    ]
+  },
+  {
+    "word": "zealous",
+    "meaning": "having or showing great energy or enthusiasm in pursuit of a cause",
+    "synonyms": [
+      "fervent",
+      "impassioned",
+      "ardent"
+    ]
+  },
+  {
+    "word": "acrimony",
+    "meaning": "bitterness or ill feeling",
+    "synonyms": [
+      "animosity",
+      "rancor",
+      "bitterness"
+    ]
+  },
+  {
+    "word": "anomaly",
+    "meaning": "something that deviates from what is standard, normal, or expected",
+    "synonyms": [
+      "aberration",
+      "irregularity",
+      "exception"
+    ]
+  },
+  {
+    "word": "catalyst",
+    "meaning": "a person or thing that precipitates an event",
+    "synonyms": [
+      "stimulus",
+      "spark",
+      "incitement"
+    ]
+  },
+  {
+    "word": "dichotomy",
+    "meaning": "a division or contrast between two things that are represented as opposites",
+    "synonyms": [
+      "duality",
+      "division",
+      "split"
+    ]
+  },
+  {
+    "word": "enigma",
+    "meaning": "a person or thing that is mysterious, puzzling, or difficult to understand",
+    "synonyms": [
+      "mystery",
+      "puzzle",
+      "riddle"
+    ]
+  },
+  {
+    "word": "abstruse",
+    "meaning": "difficult to understand; obscure",
+    "synonyms": [
+      "recondite",
+      "esoteric",
+      "arcane"
+    ]
+  },
+  {
+    "word": "adulation",
+    "meaning": "excessive admiration or praise",
+    "synonyms": [
+      "worship",
+      "flattery",
+      "veneration"
+    ]
+  },
+  {
+    "word": "alacrity",
+    "meaning": "brisk and cheerful readiness",
+    "synonyms": [
+      "eagerness",
+      "willingness",
+      "promptness"
+    ]
+  },
+  {
+    "word": "antipathy",
+    "meaning": "a deep-seated feeling of dislike; aversion",
+    "synonyms": [
+      "hostility",
+      "antagonism",
+      "aversion"
+    ]
+  },
+  {
+    "word": "assiduous",
+    "meaning": "showing great care and perseverance",
+    "synonyms": [
+      "diligent",
+      "painstaking",
+      "sedulous"
+    ]
+  },
+  {
+    "word": "bilk",
+    "meaning": "obtain or withhold money from someone by deceit; cheat",
+    "synonyms": [
+      "swindle",
+      "defraud",
+      "cheat"
+    ]
+  },
+  {
+    "word": "blandishment",
+    "meaning": "a flattering or pleasing statement or action used to persuade someone",
+    "synonyms": [
+      "flattery",
+      "cajolery",
+      "wheedling"
+    ]
+  },
+  {
+    "word": "cacophony",
+    "meaning": "a harsh, discordant mixture of sounds",
+    "synonyms": [
+      "din",
+      "racket",
+      "dissonance"
+    ]
+  },
+  {
+    "word": "cajole",
+    "meaning": "persuade someone to do something by sustained coaxing or flattery",
+    "synonyms": [
+      "coax",
+      "wheedle",
+      "beguile"
+    ]
+  },
+  {
+    "word": "circumlocution",
+    "meaning": "the use of many words where fewer would do, especially in a deliberate attempt to be vague",
+    "synonyms": [
+      "verbiage",
+      "tautology",
+      "evasiveness"
+    ]
+  },
+  {
+    "word": "cogitate",
+    "meaning": "think deeply about something; ponder",
+    "synonyms": [
+      "ruminate",
+      "deliberate",
+      "contemplate"
+    ]
+  },
+  {
+    "word": "diaphanous",
+    "meaning": "light, delicate, and translucent",
+    "synonyms": [
+      "sheer",
+      "gossamer",
+      "transparent"
+    ]
+  },
+  {
+    "word": "ebullient",
+    "meaning": "cheerful and full of energy",
+    "synonyms": [
+      "exuberant",
+      "buoyant",
+      "enthusiastic"
+    ]
+  },
+  {
+    "word": "effrontery",
+    "meaning": "insolent or arrogant behavior",
+    "synonyms": [
+      "audacity",
+      "impudence",
+      "temerity"
+    ]
+  },
+  {
+    "word": "egregious",
+    "meaning": "outstandingly bad; shocking",
+    "synonyms": [
+      "flagrant",
+      "atrocious",
+      "glaring"
+    ]
+  },
+  {
+    "word": "enervate",
+    "meaning": "cause someone to feel drained of energy or vitality",
+    "synonyms": [
+      "exhaust",
+      "fatigue",
+      "debilitate"
+    ]
+  },
+  {
+    "word": "equivocate",
+    "meaning": "use ambiguous language so as to conceal the truth or avoid committing oneself",
+    "synonyms": [
+      "prevaricate",
+      "hedge",
+      "pussyfoot"
+    ]
+  },
+  {
+    "word": "esoteric",
+    "meaning": "intended for or likely to be understood by only a small number of people",
+    "synonyms": [
+      "abstruse",
+      "arcane",
+      "recondite"
+    ]
+  },
+  {
+    "word": "garrulous",
+    "meaning": "excessively talkative, especially on trivial matters",
+    "synonyms": [
+      "loquacious",
+      "verbose",
+      "voluble"
+    ]
+  },
+  {
+    "word": "grandiloquent",
+    "meaning": "pompous or extravagant in language, style, or manner",
+    "synonyms": [
+      "pretentious",
+      "bombastic",
+      "magniloquent"
+    ]
+  },
+  {
+    "word": "harangue",
+    "meaning": "a lengthy and aggressive speech",
+    "synonyms": [
+      "tirade",
+      "diatribe",
+      "rant"
+    ]
+  },
+  {
+    "word": "iconoclast",
+    "meaning": "a person who attacks cherished beliefs or institutions",
+    "synonyms": [
+      "heretic",
+      "nonconformist",
+      "rebel"
+    ]
+  },
+  {
+    "word": "inchoate",
+    "meaning": "just begun and so not fully formed or developed",
+    "synonyms": [
+      "rudimentary",
+      "incipient",
+      "embryonic"
+    ]
+  },
+  {
+    "word": "indolent",
+    "meaning": "wanting to avoid activity or exertion; lazy",
+    "synonyms": [
+      "slothful",
+      "lazy",
+      "idle"
+    ]
+  },
+  {
+    "word": "ineffable",
+    "meaning": "too great or extreme to be expressed or described in words",
+    "synonyms": [
+      "indescribable",
+      "inexpressible",
+      "unspeakable"
+    ]
+  },
+  {
+    "word": "intransigent",
+    "meaning": "uncompromising; refusing to agree or change one's views",
+    "synonyms": [
+      "inflexible",
+      "obstinate",
+      "unyielding"
+    ]
+  },
+  {
+    "word": "inured",
+    "meaning": "accustomed to something, especially something unpleasant",
+    "synonyms": [
+      "hardened",
+      "habituated",
+      "toughened"
+    ]
+  },
+  {
+    "word": "invective",
+    "meaning": "insulting, abusive, or highly critical language",
+    "synonyms": [
+      "vituperation",
+      "abuse",
+      "censure"
+    ]
+  },
+  {
+    "word": "maverick",
+    "meaning": "an unorthodox or independent-minded person",
+    "synonyms": [
+      "individualist",
+      "nonconformist",
+      "free spirit"
+    ]
+  },
+  {
+    "word": "munificent",
+    "meaning": "more generous than is usual or necessary",
+    "synonyms": [
+      "bountiful",
+      "magnanimous",
+      "open-handed"
+    ]
+  },
+  {
+    "word": "obdurate",
+    "meaning": "stubbornly refusing to change one's opinion or course of action",
+    "synonyms": [
+      "stubborn",
+      "obstinate",
+      "unyielding"
+    ]
+  },
+  {
+    "word": "obfuscate",
+    "meaning": "render obscure, unclear, or unintelligible",
+    "synonyms": [
+      "muddle",
+      "befog",
+      "complicate"
+    ]
+  },
+  {
+    "word": "obsequious",
+    "meaning": "obedient or attentive to an excessive or servile degree",
+    "synonyms": [
+      "sycophantic",
+      "subservient",
+      "fawning"
+    ]
+  },
+  {
+    "word": "pellucid",
+    "meaning": "translucently clear in meaning or style",
+    "synonyms": [
+      "limpid",
+      "crystal-clear",
+      "lucid"
+    ]
+  },
+  {
+    "word": "perfidious",
+    "meaning": "deceitful and untrustworthy",
+    "synonyms": [
+      "treacherous",
+      "disloyal",
+      "duplicitous"
+    ]
+  },
+  {
+    "word": "pernicious",
+    "meaning": "having a harmful effect, especially in a gradual or subtle way",
+    "synonyms": [
+      "insidious",
+      "detrimental",
+      "destructive"
+    ]
+  },
+  {
+    "word": "perspicacity",
+    "meaning": "the quality of having a ready insight into things; shrewdness",
+    "synonyms": [
+      "acumen",
+      "discernment",
+      "shrewdness"
+    ]
+  },
+  {
+    "word": "petulant",
+    "meaning": "childishly sulky or bad-tempered",
+    "synonyms": [
+      "peevish",
+      "irritable",
+      "fretful"
+    ]
+  },
+  {
+    "word": "phlegmatic",
+    "meaning": "having an unemotional and stolidly calm disposition",
+    "synonyms": [
+      "imperturbable",
+      "placid",
+      "unruffled"
+    ]
+  },
+  {
+    "word": "pulchritude",
+    "meaning": "physical beauty",
+    "synonyms": [
+      "attractiveness",
+      "loveliness",
+      "comeliness"
+    ]
   },
   {
     "word": "recondite",
     "meaning": "little known or difficult to understand; abstruse",
-    "synonyms": ["obscure", "abstruse", "esoteric"]
+    "synonyms": [
+      "obscure",
+      "esoteric",
+      "arcane"
+    ]
   },
   {
     "word": "sesquipedalian",
     "meaning": "having many syllables; given to using long words",
-    "synonyms": ["polysyllabic", "grandiloquent", "verbose"]
+    "synonyms": [
+      "polysyllabic",
+      "grandiloquent",
+      "verbose"
+    ]
+  },
+  {
+    "word": "sycophant",
+    "meaning": "a person who acts obsequiously toward someone important in order to gain advantage",
+    "synonyms": [
+      "flatterer",
+      "toady",
+      "lackey"
+    ]
+  },
+  {
+    "word": "truculent",
+    "meaning": "eager or quick to argue or fight; aggressively defiant",
+    "synonyms": [
+      "belligerent",
+      "pugnacious",
+      "combative"
+    ]
+  },
+  {
+    "word": "vicarious",
+    "meaning": "experienced in the imagination through the feelings or actions of another person",
+    "synonyms": [
+      "indirect",
+      "secondhand",
+      "surrogate"
+    ]
   }
 ]
