@@ -1,8 +1,15 @@
-from core.questions import ask_question
+import json
 import sys
 
-continuation = ""
-while continuation.lower() != 'n':
-    ask_question("meaning")
-    continuation = input('Would you like to continue (Y/N)?')
-sys.exit()
+from core.questions import Quiz, ask_question
+from ui.main_window import MainWindow
+from PyQt6.QtWidgets import QApplication
+
+with open("json/vocab.json", "r") as file:
+    master_list = json.load(file)
+
+quiz = Quiz(master_list)
+app = QApplication(sys.argv)
+window = MainWindow(quiz)
+window.show()
+sys.exit(app.exec())
