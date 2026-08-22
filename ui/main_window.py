@@ -12,7 +12,7 @@ class MainWindow(QMainWindow):
         self.incorrectCount = 0
 
         self.setWindowTitle("Vocab Trainer")
-        self.resize(800, 800)
+        self.resize(500, 500)
 
         central = QWidget()
         self.setCentralWidget(central)
