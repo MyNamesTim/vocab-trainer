@@ -11,7 +11,7 @@ class MainWindow(QMainWindow):
         self.correctCount = 0
         self.incorrectCount = 0
 
-        self.setWindowTitle("asdf")
+        self.setWindowTitle("Vocab Trainer")
         self.resize(800, 800)
 
         central = QWidget()
